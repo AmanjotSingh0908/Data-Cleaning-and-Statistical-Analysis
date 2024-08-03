@@ -1,5 +1,7 @@
 # Data-Cleaning-and-Statistical-Analysis
 
+`csv_stats_analyser` is an NPM package designed for analyzing CSV files. It provides functions for parsing CSV data, cleaning it, and performing various statistical calculations, making it easier to manage and extract statistical insights from your data.
+
 Add the following code to get the basic statistical info about your CSV Dataset
 
 ```
