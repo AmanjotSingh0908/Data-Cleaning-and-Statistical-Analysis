@@ -1,0 +1,19 @@
+{
+  "name": "csv_stats_analyser",
+  "version": "1.0.0",
+  "description": "This npm package provides functions to clean CSV data and perform basic statistical calculations in JavaScript. It includes functionalities to calculate mean, median, mode, standard deviation and quartiles of the data. The package is designed to work directy with CSV files without relying on external CSV parsing libraries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmanjotSingh0908/Data-Cleaning-and-Statistical-Analysis.git"
+  },
+  "keywords": [
+    "CSV",
+    "Stats"
+  ],
+  "author": "Amanjot Singh Saini",
+  "license": "ISC"
+}
